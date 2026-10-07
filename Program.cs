@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello,Visual Studio!!!burabura");
+﻿Console.WriteLine("Hello,Visual Studio!!!bura");
