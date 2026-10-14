@@ -1,2 +1,2 @@
 ﻿Console.WriteLine("Hello,Visual Studio!!!burabanana");
-Console.WriteLine("Hello,Visual Studio!!!burananananana");
+Console.WriteLine("Hello,Visual Studio!!!bura");
